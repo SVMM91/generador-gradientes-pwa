@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,700;0,900;1,100&display=swap');
+
+html,body {
+    background-color: rgb(237, 185, 190);
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+}
+
+.salida {
+    width: 100%;
+    height: 200px;
+    border-radius: 1px solid #ccc;
+}
+.value-css {
+    width: 95%;
+}
+label {
+    font-size: 14px;
+    font-weight: bold;
+}
+input[type=radio] {
+    width: 15px;
+    height: 15px;
+}
